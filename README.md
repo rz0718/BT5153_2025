@@ -31,5 +31,4 @@ Select the notebook 'notebookname.ipynb' and open it with Google Colab using Con
       os.chdir(path_to_file)
       !pwd
    ```
-   For example, you can check this [notebook](https://github.com/rz0718/BT5153_2025/blob/main/codes/lab_lecture01/Best%20Practices%20to%20use%20Pandas.ipynb)
 <br><br>
